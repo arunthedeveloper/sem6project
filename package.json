@@ -1,0 +1,22 @@
+{
+  "name": "sem6project",
+  "version": "1.0.0",
+  "main": "action.html",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Gupta Arun Raju",
+  "license": "no license",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "prompt-sync": "^4.2.0",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "keywords": [],
+  "description": "sem 6 project by Gupta Arun Raju Roll no:35"
+}
